@@ -1,2 +1,2 @@
-print("hello world")
-print("kiril")
+def print_hello():
+    print('hello')
